@@ -5,7 +5,7 @@ Proyek sederhana ini menyajikan daftar Ekstrakurikuler Sekolah menggunakan HTML5
 ## 🛠️ Teknologi yang Digunakan
 
 * **HTML5:** Struktur konten utama.
-* **Bootstrap 5.x:** Kerangka kerja untuk desain responsif dan komponen UI.
+* **Bootstrap 5.:** Kerangka kerja untuk desain responsif dan komponen UI.
 
 ## ✨ Fitur Utama
 
@@ -15,7 +15,7 @@ Proyek sederhana ini menyajikan daftar Ekstrakurikuler Sekolah menggunakan HTML5
 ## 🚀 Live Demo
 
 Anda dapat melihat proyek ini berjalan secara *live* di:
-[https://ayu-102.github.io/Ekskul-Registration/](https://ayu-102.github.io/Ekskul-Registration/)
+[https://ayu-102.github.io/Ekskul-Registration/](https://ayu-102.github.io/Ekskul-Registration/components.html)
 
 ---
 **Dibuat oleh:** [Ayuningtias] | **GitHub:** [@ayu-102](https://github.com/ayu-102)
