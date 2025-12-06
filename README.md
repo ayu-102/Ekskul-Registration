@@ -15,7 +15,7 @@ Proyek sederhana ini menyajikan daftar Ekstrakurikuler Sekolah menggunakan HTML5
 ## 🚀 Live Demo
 
 Anda dapat melihat proyek ini berjalan secara *live* di:
-[https://usernameanda.github.io/nama-repo-anda/](https://ayu-102.github.io/Ekskul-Registration/)
+[https://ayu-102.github.io/Ekskul-Registration/](https://ayu-102.github.io/Ekskul-Registration/)
 
 ---
 **Dibuat oleh:** [Ayuningtias] | **GitHub:** [@ayu-102](https://github.com/ayu-102)
